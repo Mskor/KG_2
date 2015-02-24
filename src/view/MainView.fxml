@@ -171,7 +171,7 @@
                         <HBox prefHeight="100.0" prefWidth="200.0" spacing="20.0">
                            <children>
                               <Button fx:id="action_btn" alignment="CENTER" cacheShape="false" defaultButton="true"
-                                      disable="true" mnemonicParsing="false" nodeOrientation="LEFT_TO_RIGHT"
+                                      disable="false" mnemonicParsing="false" nodeOrientation="LEFT_TO_RIGHT"
                                       prefHeight="60.0" prefWidth="138.0" text="Action" textAlignment="CENTER">
                                  <font>
                                     <Font name="Candara" size="30.0"/>
